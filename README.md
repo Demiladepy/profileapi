@@ -119,7 +119,7 @@ Add PORT as an environment variable
 
 Deploy
 
-Copy your live URL (e.g., https://profile-api.up.railway.app/me)
+Copy your live URL (https://profileapi.pxxl.click)
 
 🧪 Testing Checklist
 Criteria	Status
