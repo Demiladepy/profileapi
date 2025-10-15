@@ -119,7 +119,7 @@ Add PORT as an environment variable
 
 Deploy
 
-Copy your live URL (https://profileapi.pxxl.click)
+Copy your live URL (https://profileapi.pxxl.click/me)
 
 🧪 Testing Checklist
 Criteria	Status
